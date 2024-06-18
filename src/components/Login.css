@@ -1,0 +1,10 @@
+.endzone {
+    border: 2px dashed #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.min-vh-100 {
+    min-height: 100vh;
+}
